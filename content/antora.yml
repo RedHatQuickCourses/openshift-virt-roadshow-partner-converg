@@ -1,13 +1,13 @@
 ---
 name: modules
-title: Experience OpenShift Virtualization
+title: Partner Convergence event - Experience OpenShift Virtualization
 version: master
 nav:
 - modules/ROOT/nav.adoc
 
 asciidoc:
   attributes:
-    lab_name: Experience OpenShift Virtualization
+    lab_name: Partner Convergence event - Experience OpenShift Virtualization
     release-version: master
     page-pagination: true
   page-links:
